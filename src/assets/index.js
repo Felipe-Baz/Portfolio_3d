@@ -20,9 +20,7 @@ import kubernetes from "./tech/kubernetes.png";
 
 import xds from "./company/xds.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import aiforge from "./aiforge.png";
 
 export {
   logo,
@@ -42,9 +40,7 @@ export {
   nodejs,
   python,
   typescript,
-  carrent,
-  jobit,
-  tripguide,
+  aiforge,
   xds,
   kubernetes,
 };
